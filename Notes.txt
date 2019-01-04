@@ -1,0 +1,4 @@
+set -> {} -> collection of unique item. so if you pass set([]) -> will store unique item of that list
+tuple -> similar to list, just that items cant change inside the tuple as compared to list
+dictionary
+list
